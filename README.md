@@ -1,4 +1,4 @@
-a<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
 
 <p>
   <img src="Assets\Bring\Editor\Icons\signal.png" width="150">
