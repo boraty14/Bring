@@ -1,0 +1,11 @@
+{
+  "name": "com.braty.bring",
+  "version": "1.0.0",
+  "displayName": "Bring",
+  "description": "Simple event system",
+  "unity": "6000.0",
+  "author": {
+    "name": "Braty",
+    "url": "https://github.com/boraty14"
+  }
+}
