@@ -29,7 +29,7 @@ namespace Bring.Runtime
         }
 
 
-        public void EmitRef<T>(T signal) where T : class, IRefSignal
+        public void EmitRef<T>(T signal = null) where T : class, IRefSignal
         {
             _refEmitter.Emit(signal);
         }
